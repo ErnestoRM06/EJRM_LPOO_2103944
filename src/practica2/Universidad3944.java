@@ -2,7 +2,7 @@ package practica2;
 
 
 public class Universidad3944 {
-    private EstudianteEJRM[] estudiantes = new EstudianteEJRM[0];
+    EstudianteEJRM[] estudiantes = new EstudianteEJRM[0];
 
     public EstudianteEJRM[] mostrarEstudiantes() {
         return estudiantes;
@@ -23,7 +23,7 @@ public class Universidad3944 {
     
     public EstudianteEJRM buscarEstudiante(int matriculaBuscar) {
         for (EstudianteEJRM estudiante : estudiantes) {
-            if (estudiante.getMatricula() == matriculaBuscar) {
+            if (estudiante.matricula == matriculaBuscar) {
                 return estudiante;
             }
         }
