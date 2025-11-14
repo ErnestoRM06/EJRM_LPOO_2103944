@@ -1,0 +1,6 @@
+Error de matrícula (No válida): La matrícula debe terminar en 944.
+Error, usuario no encontrado: No se encontró el usuario: EJRM
+Error de matrícula (No válida): La matrícula debe terminar en 944.
+Error de matrícula (No válida): La matrícula debe terminar en 944.
+Error, usuario no encontrado: No se encontró el usuario: EJRM
+Error de saldo (insuficiente): Intento de retiro: 103944.0 > saldo: 3944.0
